@@ -1,0 +1,6 @@
+runs/*
+images/*
+archive/*
+output/*
+output_archive/*
+*.pt
