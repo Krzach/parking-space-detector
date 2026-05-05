@@ -1,3 +1,4 @@
 pillow
 ultralytics
 requests
+scikit-learn
